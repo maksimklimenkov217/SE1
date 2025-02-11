@@ -1,4 +1,4 @@
-#include <iostream> // Программа учебная
+#include <iostream> // Программа учебная. Автор: Клименков Максим. КЭ-217. 2025
 
 using namespace std;
 
